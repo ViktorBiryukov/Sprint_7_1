@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71785475-5bb4-4173-9834-c6d1d107968b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/scooter/Order/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/scooter/Order/OrderClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/scooter/courier/Courier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/scooter/courier/CourierClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/scooter/courier/CourierCredentials.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestCreatingCourier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestCreatingOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestGettingOrderList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestLoginCourier.java" afterDir="false" />
-    </list>
+    <list default="true" id="71785475-5bb4-4173-9834-c6d1d107968b" name="Changes" comment="Первая попытка сдать проект" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,6 +63,14 @@
       <option name="presentableId" value="Default" />
       <updated>1671906770031</updated>
     </task>
+    <task id="LOCAL-00001" summary="Первая попытка сдать проект">
+      <created>1671915161862</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671915161862</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -92,5 +83,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Первая попытка сдать проект" />
+    <option name="LAST_COMMIT_MESSAGE" value="Первая попытка сдать проект" />
   </component>
 </project>
